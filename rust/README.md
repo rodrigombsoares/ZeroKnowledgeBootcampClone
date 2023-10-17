@@ -1,5 +1,7 @@
+# Solutions
+This repo contains the solutions
 
-# Installing Zustlings
+## Installing Zustlings
 
 We have a customised version of rustlings
 
